@@ -1,0 +1,2 @@
+In this project we are building a google-homepage by deconstructing an existing web and rebuilding it.
+The skills to acquire is see how elements get placed on the page and how they get styled and aligned.
